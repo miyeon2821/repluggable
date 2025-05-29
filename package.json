@@ -1,0 +1,10 @@
+{
+  "name": "repluggable",
+  "version": "0.1.0",
+  "description": "Pluggable micro frontends in React+Redux apps",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
