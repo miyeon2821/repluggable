@@ -1,6 +1,6 @@
 {
   "name": "repluggable",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Pluggable micro frontends in React+Redux apps",
   "main": "src/index.ts",
   "scripts": {
